@@ -1,0 +1,415 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Cormorant:wght@300&family=Poppins:wght@200&display=swap');
+
+@media only screen and (max-width: 1023px) and (min-width: 768px) {
+    #navbar-2{
+        display: none;
+    } 
+    
+     .home_bar {
+        font-size: 12px;
+        width: 500px;
+    }
+    #home-right {
+        padding: 13px 0px 25px 30px;
+    }
+    .heading1 {
+        font-size: 22px;
+    }
+
+    .heading2 {
+        font-size: 22px;
+    }
+
+    .heading3 {
+        padding-top: 10px;
+        font-size: 10px;
+    }
+
+    .heading4 {
+        font-size: 10px;
+    }
+    .home-left{
+        padding-top: 6%;
+    }
+
+    #doctor_image {
+        width: 75%;
+    }
+
+    .first-logo {
+        font-size: 2px;
+        padding: 0px 5px;
+        width: 9%;
+        height: 51px;
+    }
+
+    .header_bar {
+        width: 500px;
+        width: 50px;
+    }
+
+    .text-left {
+        margin-top: 145px
+    }
+
+    #video_icon {
+        padding: 24px 20px 24px 0;
+        font-size: 45px;
+    }
+
+    .icon {
+        position: absolute;
+    top: 163px;
+    right: 63px;
+    }
+
+    .text-right {
+        margin-top: 155px
+    }
+
+    .logo {
+        width: 50%;
+    }
+
+    #nav-treat {
+        font-size: 10px;
+    }
+
+    #nav-about {
+        font-size: 10px;
+
+    }
+
+    #nav-doc {
+        font-size: 10px;
+
+    }
+
+    #nav-test {
+        font-size: 10px;
+
+    }
+
+    #nav-cont {
+        font-size: 10px;
+
+    }
+
+    #nav-login {
+        font-size: 10px;
+
+    }
+
+    #nav-sign {
+        font-size: 10px;
+
+    }
+
+    #nav-search {
+        font-size: 10px;
+    }
+    .button {
+        padding: 5px 27px;
+        font-size: 13px;
+        margin-right: 0px;
+    }
+
+    #patient-name {
+        padding-right: 68px;
+        font-size: 14px;
+    }
+
+    #doctor-name {
+        padding-right: 68px;
+        font-size: 14px;
+
+    }
+
+    #department-name {
+        padding-right: 42px;
+        font-size: 14px;
+    }
+
+    #phone-number {
+        padding-right: 56px;
+        font-size: 14px;
+    }
+
+    #symptoms {
+        padding-right: 85px;
+        font-size: 14px;
+    }
+
+    #choose-date {
+        padding-right: 75px;
+        font-size: 14px;
+    }
+
+    #appoitment_form {
+        padding: 0px 25px;
+        margin: 0 37px;
+    }
+
+    #appoitment {
+        font-size: 16px;
+        padding: -13px 0px 0px 10px;
+        margin: -28px 0px 0px 46px;
+    }
+    .submit {
+        font-size: 13px;
+        padding: 5px 22px;
+        margin: 0px 10px 40px 0;
+    }
+
+    #date {
+        position: relative;
+
+    }
+
+    .hospital-image {
+        width: 70%;
+    }
+
+    #hospital-content {
+        width: 50%;
+        font-size: 10px;
+    }
+
+    .Read_More {
+        margin: 0px 167px 0 0;
+    }
+
+    .book {
+        font-size: 16px;
+    }
+
+    #about {
+        font-size: 22px;
+        padding-bottom: 3px;
+    }
+
+    #hospital {
+        font-size: 22px;
+    }
+
+    #normal {
+        padding-right: 62px;
+    }
+
+    #treatment-1 {
+        padding-left: 0%;
+    }
+
+    #treatment-2 {
+        padding-left: 0%;
+    }
+
+    #treatment-3 {
+        padding-left: 0%;
+    }
+
+    #treatment-4 {
+        padding-left: 0%;
+    }
+    .parental-image {
+        position: absolute;
+        bottom: 10%;
+        left: 48%;
+        height: 75%;
+        width: 52%;
+    }
+    .treatment-heading {
+        padding-top: 35px;
+        font-size: 10px;
+    }
+
+    #item-1 {
+        padding-left: 7px;
+    }
+
+    #item-2 {
+        padding-left: 34px;
+    }
+
+    #item-3 {
+        margin-right: 63px
+    }
+
+    .icon-left {
+        margin-left: 15%;
+    }
+
+    .icon-right {
+        margin-right: 0%;
+    }
+
+    #henry_card {
+        width: 12rem;
+
+    }
+
+    #morco_card {
+        width: 12rem;
+    }
+
+    #Jenni_card {
+        width: 12rem;
+    }
+
+    .doctors {
+        padding-top: 55px;
+    }
+    .rochak {
+        margin: 0px 0 2px 0;
+        font-size: 14px;
+    }
+    .Default_Model_Text {
+        margin-bottom: 8px;
+    }
+    #rochak-left {
+        position: absolute;
+        top: 92px;
+        left: 16px;
+    }
+    #rochak-right {
+        position: absolute;
+        top: 92px;
+        right: -280px;
+    }
+    #testmonial-form {
+        margin: 0px 0px 0px 35px;
+        padding: 16px 0px 20px 15px;
+        font-size: 11px;
+        font-weight: 400;
+        width: 90%;
+    }
+    #left-quote {
+        font-size: 17px;
+        position: absolute;
+        right: 75px;
+        top: 90px;
+    }
+    #calender {
+        position: absolute;
+        right: 40px;
+        top: 183px;
+    }
+
+    #logo {
+        padding: 5px 10px 3px 10px;
+        margin: 0px 3px 26px 2px;
+        width: 67px;
+    }
+    .hr_line {
+        margin: 57px 0px 0 -12px;
+        width: 95%;
+    }
+
+    .mail_id {
+        position: absolute;
+        left: 16.7%;
+        top: 9%;
+    }
+
+    .subscribe {
+        position: absolute;
+        bottom: 84.4%;
+        left: 86%;
+    }
+
+    #element-1 {
+        padding-left: 5%;
+        padding-top: 2%;
+    }
+    
+    #element-2 {
+        padding-left: 0%;
+        padding-top: 2%;
+       
+    }
+    #element-3 {
+        padding-left: 0%;
+        padding-top: 2%;
+       
+    }
+
+    #element-4 {
+        padding-top: 2%;
+    }
+
+    .post1 {
+        width: 25%;
+    }
+
+    .post2 {
+        width: 26%;
+    }
+
+    .post3 {
+        width: 25%;
+    }
+
+    .post4 {
+        width: 28%;
+    }
+
+    .normal-1 {
+        margin-bottom: 20px;
+    }
+
+    .normal-3 {
+        margin-bottom: 20px;
+    }
+
+    #address {
+        margin-bottom: 14%;
+    }
+
+    #useful_link {
+        margin-bottom: 14%;
+    }
+
+    #latest_posts {
+        margin-bottom: 14%;
+    }
+
+    #news {
+        margin-bottom: 14%;
+    }
+
+    #last-page {
+        font-size: 10px;
+        padding: 0px 0px 0px -1px;
+    }
+
+    #testmonial_word {
+        padding: 5px 530px 30px 0;
+        font-size: 25px;
+    }
+
+    .home {
+        font-size: 10px;
+    }
+
+    .footer {
+        font-size: 10px;
+    }
+
+    #template {
+        font-size: 12px;
+        margin-top: -5%;
+    }
+
+    .head-1 {
+        font-size: 17px;
+    }
+    .read_first {
+        font-size: 13px;
+    }.human-img{
+        width: 70%;
+    }.footer-page{
+        padding: 0px 0px 50px 0px;
+    }
+
+
+}

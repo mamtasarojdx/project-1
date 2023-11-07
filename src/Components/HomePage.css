@@ -1,0 +1,595 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Cormorant:wght@300&family=Poppins:wght@200&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+
+/* .header_bar{
+ position: inherit;
+} */
+
+#navbar-example2{
+   /* position: fixed; */
+   cursor: pointer;
+   z-index: 111;
+}
+.mico-style:focus{
+   color: black;
+   background-color: blue;
+}
+.home_bar{
+   margin-left: 5%;
+}
+.call_bar{
+   padding-left: 20px;
+}
+.email_bar{
+   padding-left: 20px;
+}
+.location_bar{
+   padding-left: 20px;
+}
+#doctor_image{
+   width: 60%;
+}
+.logo {
+   background-color: white;
+}
+.header_bar{
+   background-color: rgb(0,198,169)!important ;
+   color: white !important;
+
+  }
+ #home-right{
+   padding-left: 4%;
+ }
+.angle{
+   position: relative;
+}
+.icon{
+   position: absolute;
+    right: 183px;
+    top: 375px;
+}
+.first-logo{
+   padding: 0 15px;
+}
+.heading1{
+   font-weight: 700;
+}
+
+.heading2{
+   color: rgb(0,198,169);
+   font-weight: 700;
+}
+
+.heading3{
+   padding-top:20px;
+}
+
+.heading4{
+   padding-bottom:20px ;
+}
+
+#video_icon {
+   font-size: 58px;
+   padding: 70px 582px 42px 0;
+   color: rgb(0,198,169);
+}
+.button{
+   background-color: black;
+   color: white;
+   padding: 5px 35px;
+   border-radius: 4px;
+   margin: 0 505px 40px 0;
+}
+
+.mico-style {
+   border-radius: 2px;
+   box-shadow: 70px 15px 10px #f2f2f2;
+   margin-bottom: 20px;
+}
+.text-left{
+   background-color: rgb(0, 198, 169);
+   color: rgba(242, 243, 242, 0.626);
+   margin-top: 45px;
+  
+}
+.text-right{
+   margin: 15px 20px 10px 10px;
+   background-color: rgb(205,207,206);
+   color: rgba(242, 243, 242, 0.626);
+   margin-top: 55px;
+   }
+
+
+#logo_bar{
+   padding: 5px 20px;
+   margin-left: 30px;
+   background-color: white;
+}
+
+#call{
+   padding-left: 90px ;
+}
+
+#email{
+   padding-left: 30px ;
+}
+#location{
+   padding-left: 30px ;
+}
+
+
+#left{
+padding: 8px 15px;
+color:white;
+background-color: rgb(0,198,169);
+margin: 10px 0 0 1100px;
+font-size: larger;
+
+}
+
+#right{
+    padding: 8px 15px;
+    background-color: rgb(0,198,169);
+    color:white;
+    margin-left: 10px;
+    font-size: larger;
+    
+ }
+ #patient-name{
+   padding-right: 300px;
+ }
+ #doctor-name{
+   padding-right: 292px;
+
+ }
+#department-name{
+   padding-right: 275px
+}
+#phone-number{
+   padding-right: 290px
+}
+#symptoms{
+   padding-right: 325px;
+}
+#choose-date{
+   padding-right: 320px;
+}
+#calender {
+   position: absolute;
+   right: 42px;
+   top: 204px;
+   color: rgb(0,198,169);
+}
+#appoitment_form {
+   position: relative;
+   margin: 0 55px;
+   border-radius: 2px;
+   box-shadow: 0px 0px 8px rgb(205,207,206);
+   padding: 5px 25px 0px 25px;
+}
+
+.text-start {
+   text-align: left !important;
+}
+
+ #appoitment {
+   color: rgb(0,198,169);
+   padding-top: -12%;
+   margin-top: -2.6%;
+   margin-left: 5%;
+}
+
+
+#hospital{
+   color: rgb(0,198,169);
+}
+
+ .submit{
+    padding: 6px 25px;
+    border-radius: 5px;
+   margin-bottom: 40px;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    background-color: black;
+    color: white;
+ }
+
+ #date{
+    color: rgb(0,198,169);
+    border: 2px solid rgb(0,198,169);
+    position: relative;
+    
+ }
+
+ #phone_number{
+    color: rgb(0,198,169);
+    border: 2px solid rgb(0,198,169);
+ }
+
+ .book{
+    text-decoration: underline;
+    text-decoration-color: rgb(0,198,169);
+    
+}
+
+.first_card{
+   background-color: white;
+   height: 100%;
+   width: 100%;
+}
+
+.my-doctor{
+ background-color: aquamarine;
+}
+.doctors{
+    padding: 100px 0 80px 120px;
+    margin: 30px 0px;
+ } 
+
+ #team2{
+    background-color: white;
+    padding-bottom: 150px;
+ }
+ 
+ #team3{
+    background-color: white;
+    padding-bottom: 150px;
+    
+ }
+
+ #team1{
+    background-color: white;
+    padding-bottom: 150px;
+ }
+
+ 
+
+ #hospital-form{
+    padding-left: 50px;
+    color:rgb(0,198,169) ;
+ }
+
+ #textarea{
+    border: 1px solid rgb(0,198,169) ;
+    color:rgb(0,198,169) ;
+    border-radius: 0%;
+ }
+
+ #hospital_input{
+    border: 1px solid rgb(0,198,169) ;
+    color:rgb(0,198,169) ;
+    border-radius: 0%;
+ }
+ .send {
+   background-color: rgb(0,198,169);
+   color: white;
+   border: 2px solid rgb(0,198,169);
+   padding: 10px 40px;
+   margin: 14px 183px 0 -375px;
+}
+
+ 
+ .default_model_text{
+    color: rgb(205,207,206);
+    padding-right: 930px;
+ }
+
+ .footer-page{
+    background-color: rgb(37,37,37);
+    color: white;
+    font-family:Poppins,sans-serif,Arial;
+    padding: 0px 100px 50px 10px;
+    position: relative;
+    
+ }
+
+ #logo{
+    background-color: white;
+    padding: 5px 15px 10px 15px;
+    margin: 0 0 30px 120px;
+ }
+
+ .hr_line{
+   height: 2px;
+   width:95%;
+   background-color: rgb(99, 101, 103);
+   margin: 80px 0px 0 25px;
+}
+
+.mail_id{
+   color: rgb(160, 161, 162);
+   display: flex;
+   justify-content: flex-start;
+   position: absolute;
+   left: 18.40%;
+   top:9.40%;
+}
+
+.subscribe{
+   color: rgb(0,198,169);
+   display: flex;
+   justify-content: flex-end;
+   position: absolute; 
+   bottom: 83.40%; 
+   left: 85.4%;
+}
+
+ .our{
+   padding: 0 0px 90px 30px;
+
+ }
+
+ #team1{
+  background-color: white;
+}
+
+#address{
+    background-color:rgb(0,198,169) ;
+    color: rgb(0,198,169);
+    padding-left: 3px;
+    margin-bottom: 7%;
+    
+}
+#useful_link{
+    background-color:rgb(0,198,169) ;
+    color: rgb(0,198,169);
+    padding-left: 3px;
+    margin-bottom: 7%;
+}
+
+#latest_posts{
+    background-color:rgb(0,198,169) ;
+    color: rgb(0,198,169);
+    padding-left: 3px;
+    margin-bottom: 7%;
+   }
+
+#news{
+    background-color:rgb(0,198,169) ;
+    color: rgb(0,198,169);
+    padding-left: 3px;
+    margin-bottom: 7%;
+}
+
+#facebook{
+    color: rgb(0,198,169);
+    padding-right: 13px;
+    
+}
+
+#twitter{
+    color: rgb(0,198,169);
+    padding-right: 13px;
+}
+
+#linkedin{
+    color: rgb(0,198,169);
+    padding-right: 13px;
+}
+
+#instagram{
+    color: rgb(0,198,169);
+    padding-right: 13px;
+}
+
+#card_right{
+   padding: 7px 15px;
+   color:black;
+   background-color: white;
+   margin: 60px 900px 0 0;
+   font-size: larger;
+   margin: 180px 300px 0 0px;
+   position: absolute;
+   left: 85%;
+}
+
+#card_left{
+   padding: 7px 15px;
+   color:black;
+   background-color: white;
+   margin: 60px 0px 0px 78px;
+   font-size: larger;
+   margin: 180px 50px 0 30px;
+} 
+
+.read_first{ 
+   color: rgb(0,198,169);
+   padding: 20px 0px 7px 0; 
+}
+
+.Read_More{
+   padding: 6px 35px;
+   background-color: black;
+   color: white;
+   border-radius: 5px;
+   margin: 10px 520px 0 0;
+}
+
+#Jenni{
+   margin-top: -54px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 104%;
+   margin-left: -5px;
+}
+
+#Morco{
+   margin-top: -54px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 104%;
+   margin-left: -5px;
+}
+
+#Hennry{
+   margin-top: -54px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 104%;
+   margin-left: -5px;
+}
+#henry_card{
+   margin-left: 50px;
+   width: 18rem;
+
+}
+#morco_card{
+   width: 18rem;
+}
+#Jenni_card{
+   width: 18rem;
+}
+.hospital-image{
+   width: 50%;
+}
+.treatment-heading{
+   padding-top: 40px;
+}
+#treatment-content{
+   padding-left: 2%;
+}
+.doctor-page{
+background-color: rgb(0,198,169);
+position: relative;
+}
+#item-1{
+   margin-top: -125px;
+   padding-left: 145px;
+   
+}
+
+#item-2{
+   margin-top: -125px;
+   padding-left: 105px;
+}
+
+#item-3{
+   margin-top: -125px;
+}
+.icon-left{
+   margin-left: 175%;
+}
+
+.icon-right{
+   margin-right: 60%;
+} 
+#rochak-left{
+   background-color: rgb(0,198,169);
+   color: white;
+   font-size: 30px;
+   position: absolute;
+    top: 120px;
+    left: 177px;
+}
+#rochak-right{
+   background-color: rgb(0,198,169);
+   color: white;
+   font-size: 30px;
+   margin-right: 300px;
+   position: absolute;
+   top: 120px;
+   right: -16px;
+   
+}
+.testi-nomi{
+   position: relative;
+}
+
+.rochak{
+   color: rgb(0,198,169);
+   font-weight: bolder;
+}
+.Default_Model_Text{
+   color:rgba(101, 99, 99, 0.425);
+}
+
+#testmonial-form{
+   margin: -15px 0 17px 196px;
+    box-shadow: 0px 0px 8px rgb(205,207,206);
+    padding: 12px 40px 24px 40px;
+}
+
+
+#testmonial_word{
+   color: rgb(0,198,169);
+   padding:0 1100px 30px 0 ;
+   
+}
+
+#left-quote{
+   font-size: 25px;
+    position: absolute;
+    right: 345px;
+    top: 90px;
+}
+
+.touch{
+   padding: 10px 0 10px 62px;
+   text-align: start;
+}
+
+#element-1 {
+   padding-left: 9%;
+   padding-top: 2%;
+}
+
+#element-2 {
+   padding-left: 7%;
+   padding-top: 2%;
+}
+
+#element-3 {
+   padding-left: 3%;
+   padding-top: 2%;
+}
+
+#element-4 {
+   padding-left: 3%;
+   padding-top: 2%;
+}
+.post1{
+   width: 20%;
+   padding-bottom: 5%;
+}
+.post2{
+   width: 21%;
+}
+.post3{
+   width: 18%;
+   padding-bottom: 5%;
+}
+.post4{
+   width: 20%;
+}
+.home{
+   color: rgb(0,198,169);
+}
+.human-img {
+   width: 50%;
+   padding-bottom: 7%;
+}
+#hospital-content{
+   font-size: 15px;
+}
+#treatment-4{
+   position: relative;
+}
+.parental-image {
+   position: absolute;
+   bottom: 11%;
+   left: 41%;
+   height: 83%;
+   width: 45%;
+   background-size: contain;
+   background-repeat: no-repeat;
+   opacity: 0.3;
+}

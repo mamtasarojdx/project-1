@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Cormorant:wght@300&family=Poppins:wght@200&display=swap');
+@media only screen and (max-width: 766px) and (min-width: 425px)  {
+    .image-left {
+        margin-left: 0%;
+    }
+    #testmonial_word {
+        padding: 7px 11px 19px 0;
+        font-size: 16px;
+    }
+    #testmonial-form {
+        margin: -4px 0 35px 25px;
+        padding: 5px 8px 10px 10px;
+        font-size: 11px;
+        width: 86%;
+    }
+    #rochak-right {
+        position: absolute;
+        top: 87px;
+        right: -288px;
+    }
+    #rochak-left {
+        position: absolute;
+        top: 87px;
+        left: 7px;
+    }
+    #left-quote {
+        font-size: 12px;
+        position: absolute;
+        top: 58px;
+        left: 360px;
+    }
+    .rochak {
+        margin-bottom: 1%;
+    }.Default_Model_Text {
+        margin-bottom: 2%;
+    }
+    #hospital-form {
+        padding: 0 47px 0 5px;
+        width: -10px;
+    }
+    .touch {
+        padding: 10px 0 10px 112px;
+        font-size: 17px;
+    }
+    .send {
+        padding: 4px 23px;
+        margin: 20px 318px 0 0;
+        font-size: 13px;
+    }.human-img {
+        width: 70%;
+        padding-bottom: 7%;
+    }
+    .last-logo {
+        width: 12%;
+    }
+    .hr_line {
+        width: 70%;
+        margin: -10px 0px 0 75px;
+    }
+    .mail_id {
+        position: absolute;
+        left: 20.4%;
+        top: 3.1%;
+        font-size: 11px;
+    }
+    .subscribe {
+        position: absolute;
+        bottom: 90%;
+        left: 73%;
+        font-size: 11px;
+    }
+    #element-1 {
+        padding-left: 10%;
+        padding-top: 4%;
+        font-size: 10px;
+    }
+    #element-2 {
+        padding-left: 55%;
+        padding-bottom: 4px;
+        margin-top: -33%;
+        font-size: 10px;
+    }
+    #element-3 {
+        padding-left: 10%;
+        font-size: 10px;
+        width: 50%;
+    }
+    #element-4 {
+        padding-left: 55%;
+        margin-top: -21%;
+        font-size: 10px;
+        width: 97%;
+    }
+    .footer-page{
+        padding: 0px 0px 50px 0px;
+    }.home{
+        font-size: 10px;
+    }#address {
+        padding-left: 3px;
+        margin-bottom: 3%;
+    }
+    #useful_link {
+        margin-bottom: 3%;
+    }
+    #template {
+        padding-right: 14px;
+        font-size: 9px;
+    }
+    #logo {
+        padding: 0px 3px 2px 2px;
+        margin: 0px 0 0px -313px;
+    }
+    .footer-page{
+        font-size: 12px;
+    }.last-logo {
+        width: 8%;
+    }
+    #appoitment {
+        font-size: 16px;
+        padding: -13px 0px 0px 10px;
+        margin: -28px 0px 0px 46px;
+    }
+    #appoitment_form {
+       padding-bottom: 25px;
+    }
+    .book {
+        font-size: 16px;
+    }
+    #appoitment {
+        font-size: 16px;
+        padding: -13px 0px 0px 10px;
+        margin: -28px 0px 0px 46px;
+    }
+    #patient-name {
+        padding-right: 68px;
+        font-size: 14px;
+    }
+    #doctor-name {
+        padding-right: 68px;
+        font-size: 14px;
+    }
+    #department-name {
+        padding-right: 42px;
+        font-size: 14px;
+    }
+    #phone-number {
+        padding-right: 56px;
+        font-size: 14px;
+    }
+    #symptoms {
+        padding-right: 85px;
+        font-size: 14px;
+    }#choose-date {
+        padding-right: 75px;
+        font-size: 14px;
+    }
+    #calender {
+        position: absolute;
+        right: 40px;
+        top: 525px;
+    }
+    .submit {
+        font-size: 12px;
+        padding: 4px 15px;
+        margin: 0px 0px 0px 0;
+    }
+    .hospital-image {
+        width: 55%;
+    }
+    #hospital-content {
+        width: 100%;
+        font-size: 12px;
+        padding: 15px 0px 0 35px;
+    }
+    #about {
+        font-size: 22px;
+        padding: 0 0 3px 91px;
+    }
+    #hospital {
+        font-size: 22px;
+    }
+    #normal {
+        padding-right: 62px;
+    }
+    .Read_More {
+        margin: 0px 0px 0 0;
+        padding: 5px 25px;
+    }
+    #treatment-1 {
+        padding-left: 3%;
+    }
+
+    #treatment-2 {
+        padding-left: 53%;
+        margin-top: -54%;
+    }
+    #treatment-3 {
+        padding-left: 3%;
+    }
+
+    #treatment-4 {
+        padding-left: 53%;
+        margin-top: -50%;
+    }
+    .parental-image {
+        position: absolute;
+        bottom: 10%;
+        left: 75%;
+        height: 75%;
+        width: 25%;
+    }
+
+    .treatment-heading {
+        padding-top: 20px;
+        font-size: 10px;
+    }
+    .head-1 {
+        font-size: 17px;
+    }
+    .home_bar {
+        font-size: 10px;
+    }.header_bar {
+        width: 500px;
+        width: 50px;
+    }
+    .logo {
+        width: 90%;
+    }
+    .first-logo {
+        font-size: 2px;
+        padding: 0px 3px;
+        width: 9%;
+        height: 48px;
+        margin-left: -4px;
+    }
+    #nav-about {
+        font-size: 10px;
+    }
+    #nav-treat {
+        font-size: 10px;
+    }
+    #nav-doc {
+        font-size: 10px;
+    }
+    #nav-test {
+        font-size: 10px;
+    }
+    #nav-cont {
+        font-size: 10px;
+    }
+    #nav-login {
+        font-size: 10px;
+    }
+    #nav-sign {
+        font-size: 10px;
+    }
+    #nav-search {
+        font-size: 10px;
+    }
+    #home-right {
+        padding: 13px 0px 25px 30px;
+    }
+    #video_icon {
+        padding: 24px 0px 24px 150px;
+        font-size: 45px;
+    }
+    .heading1 {
+        font-size: 22px;
+        padding-left: 35%;
+    }
+    .heading2 {
+        font-size: 22px;
+        padding-left: 30%;
+    }
+    .heading3 {
+        padding-top: 5px;
+        font-size: 10px;
+        padding-left: 5%;
+    }
+    .heading4 {
+        font-size: 10px;
+        padding-left: 5%;
+    }
+    .button {
+        padding: 5px 27px;
+        font-size: 13px;
+        margin-right: 0px;
+        margin-left: 27%;
+    }
+    .home-left {
+        padding-top: 0%;
+    }
+    #doctor_image {
+        width: 75%;
+        margin-top: -10%;
+    }
+    .icon {
+        position: absolute;
+        top: 120px;
+        right: 63px;
+    }
+    .text-left {
+        margin-top: 523%;
+    }
+    .text-right {
+        margin-top: 535%;
+    }
+
+    .doctors {
+        padding-top: 55px;
+    }
+    .icon-left {
+        margin-left: -58%;
+        margin-bottom: -124%;
+    }
+    #item-1 {
+        padding-left: 125px;
+        margin-top: -35%;
+    }
+    #item-2 {
+        padding-left: 125px;
+        margin-top: 15%;
+    }
+    #item-3 {
+        padding-left: 74px;
+        margin-top: 15%;
+    }
+    #Jenni_card {
+        width: 12rem;
+    }
+
+    #morco_card {
+        width: 12rem;
+    }
+
+    #henry_card {
+        width: 12rem;
+    }
+    .icon-right {
+        margin-right: -65%;
+        margin-top: -202%;
+    }
+    .home_bar {
+        font-size: 12px;
+    }
+
+
+    }
